@@ -1,9 +1,0 @@
-<svg width="800" height="190" viewBox="0 0 800 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="799" height="189" rx="12" fill="#0B0F0C" stroke="#263229"/>
-  <rect x="0" y="0" width="4" height="190" rx="2" fill="#56D364"/>
-  <text x="42" y="76" fill="#E6EEE8" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.4">izislesar</text>
-  <text x="42" y="108" fill="#9AAC9D" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500">Backend · Infrastructure · Networking</text>
-  <text x="42" y="136" fill="#6E7F72" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">Go engineer working close to Linux and the network stack.</text>
-  <rect x="672" y="51" width="86" height="86" rx="10" fill="#101612" stroke="#31563A"/>
-  <image href="https://github.com/izislesar.png" x="672" y="51" width="86" height="86" preserveAspectRatio="xMidYMid slice"/>
-</svg>
