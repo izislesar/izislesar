@@ -1,25 +1,82 @@
-# izislesar
+<div align="center">
 
-Software / systems engineering.
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  izislesar@arch                                             │
+│  software / systems / networking                            │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-I build practical systems around Linux, networking, backend infrastructure, and developer tooling — mostly in Go.
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-## Selected work
+</div>
 
-- **[goback](https://github.com/izislesar/goback)** — Linux-first local backup manager with a TUI, content-addressable storage, deduplication, integrity verification, safe restore, and garbage collection.
-- **[spcase](https://github.com/izislesar/spcase)** — production-oriented case championship platform with a Go backend, PostgreSQL, Docker Compose, and a React frontend migration.
-- **[Xray-core](https://github.com/izislesar/Xray-core)** — networking research and experimentation around Xray.
+```console
+$ whoami
+backend / systems / networking
 
-## Focus
+$ cat /etc/motd
+build simple systems.
+understand the stack.
+keep production boring.
+```
 
-`Go` · `Linux` · `PostgreSQL` · `Docker` · `Networking` · `eBPF` · `Distributed systems`
+### ~/focus
 
-I care about clear architecture, small operational surfaces, strong safety invariants, and software that can actually survive production.
+```text
+├── Go
+├── Linux
+├── PostgreSQL
+├── Docker
+├── networking
+├── eBPF
+└── distributed systems
+```
 
-## Current direction
+### ~/projects
 
-Working on backend systems, VPN infrastructure, Linux tooling, and low-level network observability.
+```text
+.
+├── goback       linux-first backup utility
+├── spcase       production-oriented web platform
+└── Xray-core    networking research / experimentation
+```
 
----
+| project | what it is |
+| --- | --- |
+| [`goback`](https://github.com/izislesar/goback) | TUI backup manager with content-addressable storage, deduplication, safe restore and integrity verification |
+| [`spcase`](https://github.com/izislesar/spcase) | Go + PostgreSQL application with production-oriented deployment and a React frontend |
+| [`Xray-core`](https://github.com/izislesar/Xray-core) | Xray fork used for networking research and low-level experimentation |
 
-<sub>Arch Linux daily driver. Prefer systems that are understandable, testable, and boring in production.</sub>
+### ~/status
+
+```console
+$ uname -s
+Linux
+
+$ echo $SHELL
+engineering
+
+$ pwd
+/backend/systems/networking
+
+$ printf '%s\n' "current direction"
+VPN infrastructure
+Linux tooling
+low-level network observability
+```
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=izislesar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izislesar&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top languages" />
+
+</div>
+
+```text
+┌─[izislesar@arch]─[~]
+└──╼ $ _
+```
