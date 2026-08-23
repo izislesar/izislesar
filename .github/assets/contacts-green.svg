@@ -1,8 +1,0 @@
-<svg width="800" height="96" viewBox="0 0 800 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="799" height="95" rx="12" fill="#0B0F0C" stroke="#263229"/>
-  <line x1="400" y1="20" x2="400" y2="76" stroke="#263229"/>
-  <text x="28" y="39" fill="#6E7F72" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="650" letter-spacing="0.8">Email</text>
-  <text x="28" y="63" fill="#B7C3B9" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="550">your@email.tld</text>
-  <text x="428" y="39" fill="#6E7F72" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="650" letter-spacing="0.8">Telegram</text>
-  <text x="428" y="63" fill="#B7C3B9" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="550">@username</text>
-</svg>
