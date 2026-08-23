@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1e2e"/>
+      <stop offset="0.6" stop-color="#181825"/>
+      <stop offset="1" stop-color="#11111b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#89b4fa"/>
+      <stop offset="0.5" stop-color="#cba6f7"/>
+      <stop offset="1" stop-color="#f38ba8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#89b4fa" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#89b4fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="218" rx="16" fill="url(#bg)" stroke="#313244"/>
+  <rect x="1" y="1" width="798" height="3" rx="2" fill="url(#accent)"/>
+  <circle cx="740" cy="25" r="110" fill="url(#glow)"/>
+  <circle cx="252" cy="87" r="42" fill="url(#accent)"/>
+  <circle cx="252" cy="87" r="37" fill="#181825" stroke="#1e1e2e" stroke-width="2"/>
+  <text x="252" y="96" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="26" font-weight="700" fill="#cdd6f4">iz</text>
+  <text x="318" y="82" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="40" font-weight="700" fill="#cdd6f4">izislesar</text>
+  <text x="319" y="108" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="600" letter-spacing="2" fill="#89b4fa">SYSTEMS · BACKEND · NETWORKING</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="700">
+    <rect x="191" y="151" width="61" height="28" rx="14" fill="#89b4fa" fill-opacity="0.12" stroke="#89b4fa"/>
+    <text x="221.5" y="169" text-anchor="middle" fill="#89b4fa">GO</text>
+    <rect x="261" y="151" width="72" height="28" rx="14" fill="#a6e3a1" fill-opacity="0.12" stroke="#a6e3a1"/>
+    <text x="297" y="169" text-anchor="middle" fill="#a6e3a1">ARCH</text>
+    <rect x="342" y="151" width="92" height="28" rx="14" fill="#f9e2af" fill-opacity="0.12" stroke="#f9e2af"/>
+    <text x="388" y="169" text-anchor="middle" fill="#f9e2af">DOCKER</text>
+    <rect x="443" y="151" width="73" height="28" rx="14" fill="#cba6f7" fill-opacity="0.12" stroke="#cba6f7"/>
+    <text x="479.5" y="169" text-anchor="middle" fill="#cba6f7">eBPF</text>
+    <rect x="525" y="151" width="105" height="28" rx="14" fill="#f38ba8" fill-opacity="0.12" stroke="#f38ba8"/>
+    <text x="577.5" y="169" text-anchor="middle" fill="#f38ba8">POSTGRES</text>
+  </g>
+</svg>
