@@ -8,6 +8,7 @@
   border: '1px solid #20283a',
   position: 'relative',
   overflow: 'hidden',
+  fontFamily: 'monospace',
 }}>
   <div style={{
     display: 'flex', position: 'absolute', top: '0', left: '0', right: '0', height: '2px',
@@ -78,7 +79,8 @@
 ```aura width=800 height=180
 <div style={{
   display: 'flex', width: '100%', height: '100%',
-  background: '#090c12', borderRadius: '10px', border: '1px solid #20283a', overflow: 'hidden'
+  background: '#090c12', borderRadius: '10px', border: '1px solid #20283a', overflow: 'hidden',
+  fontFamily: 'monospace',
 }}>
   <div style={{ display: 'flex', flex: '1.15', flexDirection: 'column', padding: '24px 26px', borderRight: '1px solid #20283a', gap: '13px' }}>
     <span style={{ fontSize: '10px', color: '#00e5ff', fontWeight: '800', letterSpacing: '1.8px' }}>STACK</span>
