@@ -1,0 +1,29 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="799" height="179" rx="10" fill="#090c12" stroke="#20283a"/>
+  <line x1="255" y1="1" x2="255" y2="179" stroke="#20283a"/>
+  <line x1="592" y1="1" x2="592" y2="179" stroke="#20283a"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="26" y="35" fill="#00e5ff" font-size="10" font-weight="800" letter-spacing="1.8">STACK</text>
+    <g font-size="12" font-weight="650" fill="#cbd5e1">
+      <rect x="27" y="53" width="5" height="5" fill="#00e5ff"/><text x="42" y="60">Go</text>
+      <rect x="27" y="78" width="5" height="5" fill="#8b5cf6"/><text x="42" y="85">Linux / Arch</text>
+      <rect x="27" y="103" width="5" height="5" fill="#00e5ff"/><text x="42" y="110">PostgreSQL</text>
+      <rect x="27" y="128" width="5" height="5" fill="#8b5cf6"/><text x="42" y="135">Docker</text>
+    </g>
+
+    <text x="281" y="35" fill="#8b5cf6" font-size="10" font-weight="800" letter-spacing="1.8">CURRENT WORK</text>
+    <text x="281" y="62" fill="#eef4ff" font-size="13" font-weight="750">low-level network observability</text>
+    <text x="281" y="85" fill="#8a94a6" font-size="12" font-weight="600">VPN infrastructure · eBPF · Linux tooling</text>
+    <g font-size="10" font-weight="800">
+      <rect x="281" y="108" width="68" height="24" rx="3" fill="#0d121b" stroke="#21374a"/><text x="293" y="124" fill="#63e6f5">goback</text>
+      <rect x="357" y="108" width="68" height="24" rx="3" fill="#0d121b" stroke="#25314a"/><text x="369" y="124" fill="#a78bfa">spcase</text>
+      <rect x="433" y="108" width="89" height="24" rx="3" fill="#0d121b" stroke="#21374a"/><text x="445" y="124" fill="#63e6f5">Xray-core</text>
+    </g>
+
+    <text x="618" y="35" fill="#00e5ff" font-size="10" font-weight="800" letter-spacing="1.8">LINKS</text>
+    <text x="618" y="62" fill="#cbd5e1" font-size="12" font-weight="700">github.com/izislesar</text>
+    <text x="618" y="88" fill="#7b8494" font-size="11" font-weight="600">Go · Linux · Networking</text>
+    <text x="618" y="111" fill="#7b8494" font-size="11" font-weight="600">production-minded</text>
+    <text x="618" y="130" fill="#7b8494" font-size="11" font-weight="600">systems</text>
+  </g>
+</svg>
