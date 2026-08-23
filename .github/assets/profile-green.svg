@@ -1,13 +1,18 @@
-<svg width="800" height="188" viewBox="0 0 800 188" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="799" height="187" rx="8" fill="#0B0F0C" stroke="#263229"/>
+<svg width="800" height="228" viewBox="0 0 800 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="799" height="227" rx="8" fill="#0B0F0C" stroke="#263229"/>
   <rect x="0" y="0" width="800" height="2" rx="1" fill="#56D364"/>
   <circle cx="700" cy="-8" r="120" fill="#7EE787" fill-opacity="0.035"/>
-  <rect x="42" y="42" width="4" height="104" rx="2" fill="#56D364"/>
-  <text x="68" y="86" fill="#E6EEE8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" letter-spacing="-1.5">izislesar</text>
-  <text x="70" y="116" fill="#9AAC9D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500">systems / backend / networking</text>
-  <text x="70" y="143" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">Go</text>
-  <text x="112" y="143" fill="#6E7F72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">·</text>
-  <text x="128" y="143" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">Linux</text>
-  <text x="180" y="143" fill="#6E7F72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">·</text>
-  <text x="196" y="143" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">Networking</text>
+  <rect x="42" y="38" width="4" height="152" rx="2" fill="#56D364"/>
+
+  <text x="68" y="78" fill="#E6EEE8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" letter-spacing="-1.5">izislesar</text>
+  <text x="70" y="108" fill="#9AAC9D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500">backend / infrastructure / networking</text>
+
+  <text x="70" y="143" fill="#6E7F72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">BACKEND</text>
+  <text x="150" y="143" fill="#D8E2DA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Go · REST APIs · PostgreSQL</text>
+
+  <text x="70" y="166" fill="#6E7F72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">INFRA</text>
+  <text x="150" y="166" fill="#D8E2DA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Docker · Linux · systemd · GitHub Actions</text>
+
+  <text x="70" y="189" fill="#6E7F72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">NETWORK</text>
+  <text x="150" y="189" fill="#D8E2DA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Xray/VLESS · nftables · eBPF</text>
 </svg>
