@@ -1,30 +1,28 @@
 # izislesar
 
-devops. делаю так, чтобы оно ехало само, падало редко, а чинилось быстро.
+DevOps engineer. I build infrastructure that deploys itself, fails rarely, and recovers fast.
 
-```
-               pip install reliability (it doesn't work like that)
-```
+![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-## чем занимаюсь
+## What I do
 
-— инфраструктура как код, а не как чат с провайдером в 3 ночи
-— пайплайны, от которых не страшно: сборка, тесты, раскатка, откат
-— наблюдаемость раньше алертов в личку: метрики, логи, трейсы
-— дежурства без героизма: ранбуки, постмортемы, выводы
+- Infrastructure as code: Kubernetes, networks, databases — reproducible from a repo, no click-ops
+- CI/CD with safe rollouts and rollbacks: GitLab CI, GitHub Actions, ArgoCD
+- Observability before paging: metrics, logs, traces, alerts that mean something
+- Reliability as practice: SLI/SLO, runbooks, blameless postmortems
 
-## стек
+## Stack
 
-`linux` `сети (tcp/ip, dns, tls)` `docker` `kubernetes` `helm` `terraform` `ansible` `gitlab ci` `github actions` `argocd` `prometheus` `grafana` `loki` `opentelemetry` `nginx` `postgres` `redis` `kafka` `s3` `vault` `bash` `go` `python` `yandex cloud`
+`Linux` `TCP/IP · DNS · TLS` `Docker` `Kubernetes` `Helm` `Terraform` `Ansible` `GitLab CI` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `Loki` `OpenTelemetry` `Nginx` `PostgreSQL` `Redis` `Kafka` `S3` `Vault` `Bash` `Go` `Python` `Yandex Cloud`
 
-языки тут не главные герои — ими пишу скрипты, экспортеры и клей между сервисами, а не диссертацию.
+## Contacts
 
-## контакты
-
-- telegram:
-- email:
-- linkedin:
-
----
-
-*если что-то упало — сначала смотрю графики, потом логи, потом уже людей спрашиваю.*
+- Telegram:
+- Email:
+- LinkedIn:
