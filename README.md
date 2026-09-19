@@ -10,16 +10,9 @@ DevOps engineer. I build infrastructure that deploys itself, fails rarely, and r
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-## What I do
-
-- Infrastructure as code: Kubernetes, networks, databases — reproducible from a repo, no click-ops
-- CI/CD with safe rollouts and rollbacks: GitLab CI, GitHub Actions, ArgoCD
-- Observability before paging: metrics, logs, traces, alerts that mean something
-- Reliability as practice: SLI/SLO, runbooks, blameless postmortems
-
 ## Stack
 
-`Linux` `TCP/IP · DNS · TLS` `Docker` `Kubernetes` `Helm` `Terraform` `Ansible` `GitLab CI` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `Loki` `OpenTelemetry` `Nginx` `PostgreSQL` `Redis` `Kafka` `S3` `Vault` `Bash` `Go` `Python` `Yandex Cloud`
+`Linux` `TCP/IP · DNS · TLS` `Docker` `Kubernetes` `Helm` `Terraform` `Ansible` `GitLab CI` `GitHub Actions` `Prometheus` `Grafana` `Loki` `OpenTelemetry` `Nginx` `PostgreSQL` `Bash` `Go` `Python` `Yandex Cloud` 
 
 ## Contacts
 
