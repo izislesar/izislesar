@@ -17,4 +17,4 @@ DevOps engineer. I build infrastructure that deploys itself, fails rarely, and r
 ## Contacts
 
 - Telegram: @izislesar
-- Email: a1212gleb@gmail.com
+- Email: work.glebdev@gmail.com
